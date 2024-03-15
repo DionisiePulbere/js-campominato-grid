@@ -1,0 +1,35 @@
+header{
+    height: 100px;
+}
+
+main{
+    height: calc(100vh - 150px );
+}
+
+footer{
+    height: 50px;
+}
+
+img{
+    width: 70px;
+}
+
+.ms-container{
+    height: 500px;
+    width: 500px;
+    padding: 0;
+}
+
+.ms-bg-aqua{
+    background-color: #7FFFD4;
+}
+
+.square{
+    border: 1px solid black;
+    width: calc(100% / 10);
+    height: calc(100% / 10);
+}
+
+.azzurro{
+    background-color: aqua;
+}
